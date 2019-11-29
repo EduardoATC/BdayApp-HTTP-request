@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BirthdayRememberer</string>
+    <string-array name="screens">
+        <item>Add</item>
+        <item>All Birthday</item>
+        <item>Closest</item>
+    </string-array>
+    <string name="abrir_menu">Abrir menú</string>
+    <string name="cerrar_menu">Cerrar menú</string>
+
+
+    <string-array name="images">
+
+        <item>Freaks</item>
+        <item>KittyKitty</item>
+        <item>Bananas</item>
+        <item>Concert</item>
+        <item>Doggys</item>
+
+
+    </string-array>
+</resources>
